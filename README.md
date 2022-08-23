@@ -1,0 +1,1 @@
+# opencore-msi-h510m-a-pro-monterey
